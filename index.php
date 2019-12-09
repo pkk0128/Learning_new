@@ -18,6 +18,24 @@
         <![endif]-->
     </head>
     <body>
+            
+            <nav class="navbar navbar-default navbar-static-top" role="navigation">
+                <a class="navbar-brand" href="#">Ek Bharat</a>
+                <ul class="nav navbar-nav">
+                    <li class="active">
+                        <a href="#">Home</a>
+                    </li>
+                    <li>
+                        <a class="btn btn-lg btn-info" href="#" role="button">Sign Up</a>
+                    </li>
+                    <li>
+                        
+                        <a class="btn btn-lg btn-info" href="#" role="button">Login</a>
+                        
+                    </li>
+                </ul>
+            </nav>
+            
         <h1 class="text-center">Hi! This is Pankaj kumar kaushal</h1>
 
         <!-- jQuery -->
